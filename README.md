@@ -1,5 +1,5 @@
 # Stock Analysis - Module 2 Challenge
-<sub>Chapel Hill - Data Science Bootcamp</sub>
+<sub>UNC Chapel Hill Data Analytics Bootcamp</sub>
 
 ## Overview of Project
 For Module 2, VBA was used with Microsoft Excel to calculate and display stock data from 2017 and 2018 for 12 companies. The total daily volume and return were calculated for 12 companies to compare total daily volume and return percentages for the years 2017 and 2018.
